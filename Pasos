@@ -1,0 +1,10 @@
+
+Para guardar los cambios 
+
+git add -a(todos los archivos i directorios) .(este directorio)
+
+git commit -m "Descripcion de los documentos"
+
+git push (Subirlo a git hub)
+
+Ya estaria actualizado
